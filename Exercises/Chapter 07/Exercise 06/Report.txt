@@ -1,0 +1,20 @@
+June:
+	Rainy days:  11
+	Cloudy days: 11
+	Sunny days:  8
+July:
+	Rainy days:  8
+	Cloudy days: 12
+	Sunny days:  10
+August:
+	Rainy days:  8
+	Cloudy days: 12
+	Sunny days:  10
+
+Month with largest rainy days: June
+
+Month with smallest rainy days: July
+
+Total rainy days:  27
+Total cloudy days: 35
+Total sunny days:  28
