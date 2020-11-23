@@ -1,0 +1,355 @@
+Word ["Grindin'"] appears in lines: 43 
+Word ['Cause] appears in lines: 27 43 52 
+Word ['til] appears in lines: 31 59 
+Word [(] appears in lines: 26 50 
+Word [(What?)] appears in lines: 26 
+Word [),] appears in lines: 50 
+Word [,] appears in lines: 1 3 4 5 12 15 16 18 23 32 35 36 38 40 42 43 46 47 49 50 57 58 61 63 
+Word [8] appears in lines: 26 
+Word [?] appears in lines: 22 26 34 
+Word [And] appears in lines: 6 7 18 21 
+Word [Animal] appears in lines: 9 
+Word [Benzo] appears in lines: 56 
+Word [Bitch,] appears in lines: 1 12 57 
+Word [Brick] appears in lines: 51 
+Word [But] appears in lines: 8 28 42 
+Word [Dick] appears in lines: 40 
+Word [Fendi] appears in lines: 33 
+Word [Got] appears in lines: 35 
+Word [Had] appears in lines: 36 
+Word [Hoover] appears in lines: 26 
+Word [I] appears in lines: 3 4 6 7 8 13 14 15 16 18 19 20 22 23 26 28 29 30 32 33 34 35 36 37 39 40 41 42 43 44 46 47 48 49 50 56 58 59 61 
+Word [I'll] appears in lines: 32 
+Word [I'm] appears in lines: 3 4 6 15 16 19 22 33 35 37 39 41 43 46 49 56 58 61 
+Word [I'ma] appears in lines: 3 
+Word [I've] appears in lines: 58 
+Word [If] appears in lines: 33 
+Word [It] appears in lines: 13 19 20 
+Word [It's] appears in lines: 13 20 
+Word [Kendrick] appears in lines: 50 
+Word [Lamar] appears in lines: 50 
+Word [Like] appears in lines: 48 49 59 
+Word [Man,] appears in lines: 23 
+Word [Middle] appears in lines: 38 
+Word [Mile] appears in lines: 26 
+Word [My] appears in lines: 60 
+Word [Now] appears in lines: 61 
+Word [Of] appears in lines: 47 
+Word [Oh] appears in lines: 62 63 
+Word [Oh,] appears in lines: 63 
+Word [Oz] appears in lines: 53 
+Word [Paul] appears in lines: 48 
+Word [Plus] appears in lines: 53 
+Word [Pull] appears in lines: 50 
+Word [Pumas] appears in lines: 23 
+Word [Rest] appears in lines: 3 
+Word [Ripping] appears in lines: 5 
+Word [Road] appears in lines: 51 
+Word [Roomba] appears in lines: 27 
+Word [Run] appears in lines: 24 
+Word [Saran,] appears in lines: 5 
+Word [Shoot] appears in lines: 31 
+Word [So] appears in lines: 46 
+Word [St.] appears in lines: 48 
+Word [That's] appears in lines: 26 
+Word [The] appears in lines: 4 10 14 25 
+Word [These] appears in lines: 25 
+Word [This] appears in lines: 17 32 54 
+Word [Uranus] appears in lines: 43 
+Word [Vincent] appears in lines: 48 
+Word [Voodoo] appears in lines: 15 
+Word [When] appears in lines: 16 
+Word [Who] appears in lines: 34 
+Word [Wish] appears in lines: 11 
+Word [Wizard] appears in lines: 53 
+Word [Y'all] appears in lines: 55 
+Word [Yeah,] appears in lines: 50 
+Word [Yellow] appears in lines: 51 
+Word [You] appears in lines: 2 22 37 45 51 
+Word [a] appears in lines: 1 3 4 5 6 7 8 9 10 11 13 14 15 17 18 20 21 22 23 24 25 26 27 29 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 
+Word [about] appears in lines: 59 
+Word [acquittal,] appears in lines: 18 
+Word [actual] appears in lines: 7 
+Word [against] appears in lines: 60 
+Word [all] appears in lines: 46 52 55 58 59 
+Word [am] appears in lines: 6 7 9 11 20 34 47 50 
+Word [am,] appears in lines: 47 
+Word [ambition] appears in lines: 9 
+Word [ammunition] appears in lines: 6 
+Word [an] appears in lines: 5 7 11 13 14 18 22 23 24 26 29 32 35 36 40 43 44 45 49 51 59 
+Word [and] appears in lines: 7 11 24 26 32 44 45 49 51 59 
+Word [another] appears in lines: 32 
+Word [any] appears in lines: 29 35 36 
+Word [apart] appears in lines: 45 
+Word [are] appears in lines: 14 15 47 52 
+Word [assured,] appears in lines: 3 
+Word [at] appears in lines: 3 10 11 14 26 37 41 43 44 47 48 61 
+Word [avenue] appears in lines: 26 
+Word [back] appears in lines: 23 43 60 
+Word [bag] appears in lines: 33 
+Word [bar] appears in lines: 49 
+Word [bazooka] appears in lines: 20 
+Word [be] appears in lines: 19 23 32 41 43 46 58 
+Word [beat,] appears in lines: 43 
+Word [because] appears in lines: 46 
+Word [been] appears in lines: 58 
+Word [beginning] appears in lines: 32 
+Word [bein'] appears in lines: 19 
+Word [belittled] appears in lines: 19 
+Word [big,] appears in lines: 40 
+Word [bipolar] appears in lines: 14 
+Word [bitch] appears in lines: 5 38 47 53 
+Word [bitches] appears in lines: 38 
+Word [blown] appears in lines: 30 
+Word [booth] appears in lines: 2 
+Word [bottle,] appears in lines: 4 
+Word [brain] appears in lines: 53 
+Word [brandishin'] appears in lines: 11 
+Word [but] appears in lines: 10 32 
+Word [butt-fuckin'] appears in lines: 10 
+Word [by] appears in lines: 19 42 
+Word [bye-bye,] appears in lines: 42 
+Word [can't] appears in lines: 40 
+Word [car] appears in lines: 13 
+Word [cash] appears in lines: 10 
+Word [ceilin'] appears in lines: 4 
+Word [chances] appears in lines: 14 
+Word [checkin'] appears in lines: 17 
+Word [chick] appears in lines: 51 
+Word [clap] appears in lines: 8 
+Word [clever] appears in lines: 1 
+Word [clip] appears in lines: 11 31 32 
+Word [clothes] appears in lines: 48 
+Word [could] appears in lines: 11 
+Word [crawl] appears in lines: 57 
+Word [critique] appears in lines: 18 
+Word [damn] appears in lines: 11 20 
+Word [de] appears in lines: 2 7 15 33 35 48 54 55 
+Word [deep] appears in lines: 33 
+Word [detention] appears in lines: 55 
+Word [detractors,] appears in lines: 35 
+Word [diet,] appears in lines: 36 
+Word [dig] appears in lines: 33 
+Word [discharges] appears in lines: 17 
+Word [dog] appears in lines: 51 
+Word [dolls,] appears in lines: 15 
+Word [don't] appears in lines: 29 41 49 
+Word [doubt] appears in lines: 29 
+Word [down] appears in lines: 33 
+Word [draw] appears in lines: 49 56 
+Word [earthlings] appears in lines: 42 
+Word [emptied] appears in lines: 31 
+Word [ending] appears in lines: 32 34 59 
+Word [ending,] appears in lines: 32 
+Word [entire] appears in lines: 40 
+Word [even] appears in lines: 28 
+Word [ever] appears in lines: 1 48 49 56 59 
+Word [every] appears in lines: 49 
+Word [feels] appears in lines: 19 35 
+Word [fiddlin'] appears in lines: 16 
+Word [fight] appears in lines: 21 
+Word [find] appears in lines: 51 
+Word [fingers,] appears in lines: 38 
+Word [fist] appears in lines: 59 
+Word [fit] appears in lines: 40 
+Word [flaws] appears in lines: 45 
+Word [flippin'] appears in lines: 37 
+Word [for] appears in lines: 10 23 41 45 54 
+Word [friendly] appears in lines: 38 
+Word [from] appears in lines: 2 
+Word [fuck] appears in lines: 10 11 17 21 23 24 35 43 48 63 
+Word [fuckin'] appears in lines: 10 11 21 43 
+Word [fucking] appears in lines: 17 23 35 48 
+Word [fun,] appears in lines: 15 
+Word [furthest] appears in lines: 2 
+Word [game] appears in lines: 7 
+Word [get] appears in lines: 18 19 23 30 35 38 48 54 
+Word [gettin'] appears in lines: 35 
+Word [getting] appears in lines: 54 
+Word [giving] appears in lines: 53 
+Word [go] appears in lines: 24 36 55 57 59 
+Word [gonna] appears in lines: 57 
+Word [got] appears in lines: 36 55 59 
+Word [grew] appears in lines: 26 
+Word [guns] appears in lines: 15 
+Word [had] appears in lines: 7 48 
+Word [hand] appears in lines: 7 11 
+Word [handgun] appears in lines: 11 
+Word [hard] appears in lines: 46 
+Word [have] appears in lines: 1 29 
+Word [heart] appears in lines: 52 
+Word [holdin'] appears in lines: 16 
+Word [holding] appears in lines: 20 
+Word [home] appears in lines: 24 
+Word [hookah] appears in lines: 22 
+Word [hospital] appears in lines: 17 
+Word [how] appears in lines: 44 47 
+Word [if] appears in lines: 12 16 28 46 
+Word [imaginary] appears in lines: 11 
+Word [in] appears in lines: 1 2 3 4 5 7 10 11 15 16 17 19 20 21 23 28 30 32 33 34 35 37 38 39 40 41 42 43 44 46 48 51 52 53 54 57 58 59 60 61 
+Word [indie] appears in lines: 28 
+Word [into] appears in lines: 44 
+Word [invincible,] appears in lines: 58 
+Word [is] appears in lines: 2 3 7 10 11 13 17 31 32 40 43 45 46 49 50 52 53 54 59 
+Word [it] appears in lines: 1 5 6 9 11 12 13 16 17 18 19 21 27 30 32 38 40 41 44 45 46 47 49 50 51 53 54 56 57 58 59 63 
+Word [it's] appears in lines: 30 46 
+Word [it,] appears in lines: 18 50 
+Word [jumped] appears in lines: 23 
+Word [just] appears in lines: 15 16 47 59 
+Word [kids'] appears in lines: 21 
+Word [law] appears in lines: 45 61 
+Word [learned] appears in lines: 44 
+Word [like] appears in lines: 3 5 7 15 17 18 19 20 22 27 30 33 35 38 39 50 53 54 56 61 
+Word [line] appears in lines: 1 
+Word [listen] appears in lines: 45 
+Word [little] appears in lines: 11 19 21 
+Word [loaded] appears in lines: 15 
+Word [logic] appears in lines: 41 
+Word [loot] appears in lines: 39 
+Word [low] appears in lines: 14 21 30 35 51 
+Word [make] appears in lines: 49 
+Word [manual] appears in lines: 13 
+Word [many] appears in lines: 35 36 
+Word [me] appears in lines: 7 14 15 17 23 24 41 
+Word [mental] appears in lines: 17 
+Word [middle] appears in lines: 21 
+Word [midgets] appears in lines: 19 
+Word [missing] appears in lines: 7 52 
+Word [money] appears in lines: 36 
+Word [motherfucker] appears in lines: 17 
+Word [motherfuckin'] appears in lines: 11 
+Word [murdering] appears in lines: 2 
+Word [my] appears in lines: 14 17 23 24 33 36 48 
+Word [myself] appears in lines: 17 
+Word [need] appears in lines: 8 51 
+Word [neighbors] appears in lines: 38 
+Word [never] appears in lines: 1 48 59 
+Word [nine-tenths] appears in lines: 61 
+Word [none] appears in lines: 14 
+Word [now?] appears in lines: 34 
+Word [nuke] appears in lines: 20 
+Word [of] appears in lines: 3 4 17 18 21 32 34 47 53 54 59 61 
+Word [off] appears in lines: 3 4 18 34 47 54 59 
+Word [off,] appears in lines: 4 
+Word [offending] appears in lines: 34 
+Word [offensive] appears in lines: 47 
+Word [office] appears in lines: 54 
+Word [on] appears in lines: 4 6 8 9 10 13 14 16 29 36 41 43 44 49 55 57 
+Word [one] appears in lines: 8 14 16 36 
+Word [one,] appears in lines: 16 
+Word [only] appears in lines: 8 10 
+Word [or] appears in lines: 10 20 23 35 38 41 45 47 54 55 
+Word [out] appears in lines: 17 28 30 31 53 59 
+Word [over] appears in lines: 7 14 26 
+Word [overcome] appears in lines: 14 
+Word [pages] appears in lines: 37 
+Word [pain] appears in lines: 44 
+Word [paper] appears in lines: 37 
+Word [peelin'] appears in lines: 3 
+Word [pencil] appears in lines: 49 
+Word [pick] appears in lines: 45 
+Word [pill] appears in lines: 4 21 
+Word [pillow] appears in lines: 21 
+Word [pins] appears in lines: 15 
+Word [pissed] appears in lines: 59 
+Word [plastic] appears in lines: 4 
+Word [plowed] appears in lines: 35 
+Word [pokin'] appears in lines: 15 
+Word [possessed,] appears in lines: 61 
+Word [pounds] appears in lines: 36 
+Word [principal's] appears in lines: 54 
+Word [pull] appears in lines: 12 50 
+Word [put] appears in lines: 32 36 44 59 
+Word [quick] appears in lines: 49 
+Word [rap] appears in lines: 5 6 10 61 
+Word [rappers] appears in lines: 5 
+Word [really] appears in lines: 46 
+Word [remember] appears in lines: 23 
+Word [retirin'] appears in lines: 41 
+Word [right] appears in lines: 21 
+Word [rioting] appears in lines: 39 
+Word [rippin'] appears in lines: 46 
+Word [roof] appears in lines: 3 
+Word [room] appears in lines: 24 
+Word [rounds] appears in lines: 32 
+Word [route] appears in lines: 28 
+Word [said] appears in lines: 1 
+Word [say] appears in lines: 41 42 
+Word [scolded] appears in lines: 54 
+Word [sentence] appears in lines: 49 
+Word [severe] appears in lines: 56 
+Word [sharp,] appears in lines: 49 
+Word [shit] appears in lines: 44 54 
+Word [should] appears in lines: 42 
+Word [single-handedly] appears in lines: 7 
+Word [sitting] appears in lines: 54 
+Word [skin's] appears in lines: 57 
+Word [skipping] appears in lines: 54 
+Word [slap] appears in lines: 11 
+Word [smoke] appears in lines: 22 
+Word [so] appears in lines: 35 40 44 50 
+Word [song] appears in lines: 44 
+Word [spit] appears in lines: 17 18 32 
+Word [stick] appears in lines: 12 
+Word [still] appears in lines: 30 
+Word [strapped] appears in lines: 6 10 
+Word [streets] appears in lines: 25 
+Word [strip] appears in lines: 45 
+Word [sucked] appears in lines: 27 
+Word [sure] appears in lines: 3 49 
+Word [surprise] appears in lines: 50 
+Word [swing] appears in lines: 40 
+Word [takin'] appears in lines: 7 
+Word [talkin'] appears in lines: 39 
+Word [tearin'] appears in lines: 4 
+Word [tell] appears in lines: 46 
+Word [that] appears in lines: 10 11 14 37 41 44 47 61 
+Word [that's] appears in lines: 61 
+Word [the] appears in lines: 2 4 5 7 11 12 17 21 26 28 31 32 37 38 40 44 46 48 49 51 53 54 59 61 
+Word [them] appears in lines: 38 
+Word [these] appears in lines: 32 
+Word [they] appears in lines: 5 
+Word [thing] appears in lines: 2 40 
+Word [think] appears in lines: 37 41 
+Word [this] appears in lines: 3 43 
+Word [thought] appears in lines: 59 
+Word [through] appears in lines: 40 58 59 
+Word [tire] appears in lines: 40 
+Word [to] appears in lines: 8 14 15 23 25 35 36 38 41 44 45 46 48 51 55 
+Word [tomorrow] appears in lines: 55 
+Word [too] appears in lines: 36 44 
+Word [took] appears in lines: 44 
+Word [transmission] appears in lines: 13 
+Word [treat] appears in lines: 3 
+Word [truth] appears in lines: 2 
+Word [try] appears in lines: 25 45 
+Word [turnin'] appears in lines: 37 
+Word [up] appears in lines: 6 12 21 24 25 26 43 
+Word [used] appears in lines: 23 
+Word [vacuum] appears in lines: 25 
+Word [walk] appears in lines: 21 51 
+Word [walkin'] appears in lines: 21 
+Word [wall] appears in lines: 59 
+Word [want] appears in lines: 22 
+Word [was] appears in lines: 26 60 
+Word [wavin'] appears in lines: 38 
+Word [way] appears in lines: 10 37 
+Word [went] appears in lines: 28 
+Word [were] appears in lines: 5 
+Word [what] appears in lines: 47 
+Word [when] appears in lines: 23 33 46 50 
+Word [where] appears in lines: 26 
+Word [whether] appears in lines: 46 
+Word [why] appears in lines: 26 
+Word [will] appears in lines: 14 25 
+Word [windy] appears in lines: 30 
+Word [with] appears in lines: 6 12 13 16 21 49 51 56 
+Word [withdrawal] appears in lines: 56 
+Word [would] appears in lines: 28 30 37 41 
+Word [would've] appears in lines: 28 
+Word [wrapped] appears in lines: 5 
+Word [y'all] appears in lines: 52 
+Word [yeah] appears in lines: 4 43 
+Word [you] appears in lines: 1 10 11 12 18 25 47 53 57 
+Word [you're] appears in lines: 10 11 
+Word [your] appears in lines: 53 57 
