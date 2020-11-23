@@ -1,0 +1,15 @@
+East division:
+	Quarter: 1
+	Quarterly Sales: 23405
+
+West division:
+	Quarter: 2
+	Quarterly Sales: 54532
+
+North division:
+	Quarter: 3
+	Quarterly Sales: 41234
+
+South division:
+	Quarter: 4
+	Quarterly Sales: 54123

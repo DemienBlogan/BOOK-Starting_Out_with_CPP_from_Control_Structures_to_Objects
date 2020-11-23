@@ -1,0 +1,12 @@
+Item #1:
+	 Item Description: 1
+	 Quantity on Hand: 2
+	 Wholesale Cost:   3
+	 Retail Cost:      4
+	 Date Added:       5.6.7
+Item #2:
+	 Item Description: 10
+	 Quantity on Hand: 11
+	 Wholesale Cost:   12
+	 Retail Cost:      13
+	 Date Added:       14.15.16
